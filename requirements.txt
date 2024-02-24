@@ -1,0 +1,4 @@
+-e .
+import pandas as pandas
+import numpy as numpy
+import ipykernel
